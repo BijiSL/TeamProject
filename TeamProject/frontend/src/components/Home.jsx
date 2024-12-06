@@ -11,7 +11,7 @@ const Home = () => {
             ICTK Internship Portal
           </Typography>
           <Button color="inherit">HOME</Button>
-          <Button color="inherit">CONTACTS  </Button>
+          <Button color="inherit">CONTACTS US </Button>
           <Button color="inherit">LOGIN</Button>
         </Toolbar>
       </AppBar>
